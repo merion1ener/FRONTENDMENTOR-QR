@@ -1,0 +1,36 @@
+/* BY MARIO GARCIA */
+body{
+    background: rgb(228, 235, 255);
+}
+.container{
+    border-radius: 20px;
+    background: rgb(253, 253, 253);
+    width: 340px;
+    height: 500px;
+    margin: auto;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 30px 0 rgba(213, 213, 213, 0.7);
+}
+img{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+h2{
+    text-align: center;
+    margin: 20px;
+    margin-top: 10px;
+    color: rgb(40, 45, 82);
+}
+h4{
+    color: rgb(164, 164, 164);
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 50px;
+
+}
